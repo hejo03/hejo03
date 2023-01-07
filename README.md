@@ -1,9 +1,6 @@
 Hi! 👋 My name is Joel
 ============================================================================================================================
 
-* 🌍  I'm based in Germany
-* 🖥️  See my portfolio at [my website](https://hejo03.de)
-
 ### Skills
 
 <p align="left">
